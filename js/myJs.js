@@ -58,7 +58,7 @@ $(document).ready(function () {
     $("#yes").css("left", leftNo);
     $("#yes").css("top", topNO);
   }
-  // move random button póition
+  // move random button pition
   function moveButton() {
     var audio = new Audio("sound/ringtone.mp3");
     audio.play();
