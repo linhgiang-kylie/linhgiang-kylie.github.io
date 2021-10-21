@@ -13,7 +13,7 @@ const textConfig = {
     "Hẹn cậu 1 ngày k xa mình gặp lại ",
   text12: "Okii tớ đợi  <3",
 };
-
+background: '#fff url("img/cutepig.jpeg")',
 $(document).ready(function () {
   // process bar
   setTimeout(function () {
