@@ -60,8 +60,8 @@ $(document).ready(function () {
   }
   // move random button pition
   function moveButton() {
-    var audio = new Audio("sound/ringtone.mp3");
-    audio.play();
+  /*  var audio = new Audio("sound/ringtone.mp3");
+    audio.play();*/
     if (screen.width <= 600) {
       var x = Math.random() * 300;
       var y = Math.random() * 500;
